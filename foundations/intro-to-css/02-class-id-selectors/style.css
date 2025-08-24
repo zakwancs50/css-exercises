@@ -1,0 +1,23 @@
+/* shared style for 1,3 and 5 */
+.group{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans" ,sans-serif;
+}
+
+/* make blue and big */
+#two{
+    color: blue;
+    font-size: 36px;
+}
+ 
+/* make #3 "cooler" (bigger than #1/#5 but smaller than #2) */
+.cooler{
+    font-size: 24px;
+}
+
+/* make #4 green and bold */
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
